@@ -14,3 +14,9 @@ This information is sent to a specified webhook URL for further processing or mo
 - **System Information Collection**: Retrieves critical system data including user and computer details, OS version, and uptime.
 - **Webhook URL Obfuscation**: Protects the webhook URL by obfuscating it with the **oxorany** library, making it difficult to identify and reverse-engineer.
 - **Secure Data Transmission**: Ensures that sensitive information is securely sent to the specified webhook without exposure.p
+
+---
+
+## License
+
+This project is licensed [License](LICENSE).
